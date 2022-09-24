@@ -30,13 +30,13 @@
 
 #### App Folder
 
-    - [x] In App folder install React App 
+- [x] In App folder install React App 
         `npx create-react-app my-app`
 
-    - [x] Install React Bootstrap.
+- [x] Install React Bootstrap.
         `npm install react-bootstrap bootstrap`
 
-    - [x] Create .gitignore file
+- [x] Create .gitignore file
         `touch .gitignore`
 
 #### Server Folder

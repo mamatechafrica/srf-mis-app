@@ -5,6 +5,9 @@
 
 #### Project Root
 
+- [ ] Mercury
+- [x] Venus
+
     - [x] Create a git repo
         `git init`
 
@@ -17,6 +20,13 @@
 
     - [] Install concurrently
         `npm i concurrently`
+
+
+    - [] Create development branch 
+        `git branch development`
+    
+    - [] Check into development branch
+        `git checkout development`
 
 #### App Folder
 

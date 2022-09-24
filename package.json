@@ -1,0 +1,19 @@
+{
+  "name": "srf-mis-app",
+  "version": "1.0.0",
+  "description": "management information system",
+  "scripts": {
+    "dev": "concurrently \"cd server && npm run server\" \"cd app && npm start\""
+  },
+  "keywords": [
+    "react",
+    "mongodb",
+    "nodejs",
+    "axios"
+  ],
+  "author": "Nash The Coder",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.4.0"
+  }
+}

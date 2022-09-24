@@ -18,14 +18,14 @@
     `mkdir App`
     `mkdir Server`
 
-    - [] Install concurrently
+    - [ ] Install concurrently
         `npm i concurrently`
 
 
-    - [] Create development branch 
+    - [ ] Create development branch 
         `git branch development`
     
-    - [] Check into development branch
+    - [ ] Check into development branch
         `git checkout development`
 
 #### App Folder
@@ -41,36 +41,36 @@
 
 #### Server Folder
 
-    - [] In Server folder initialize package.json using npm init
+    - [ ] In Server folder initialize package.json using npm init
         `npm init -y`
 
-     - [] Install MongoDb and dependencies.
+     - [ ] Install MongoDb and dependencies.
         `npm install mongodb express cors dotenv`
     
-    - [] Create .gitignore file
+    - [ ] Create .gitignore file
         `touch .gitignore`
     
 
 
 
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
-    - [] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
+    - [ ] Press Cmd/Ctrl+Enter to add a new todo
 
 
 
